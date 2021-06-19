@@ -1,0 +1,6 @@
+C:\Users\Gabriele Romagnoli\documents\visual studio 2015\Projects\watchWindows\watchWindows\bin\Release\watchWindows.exe.config
+C:\Users\Gabriele Romagnoli\documents\visual studio 2015\Projects\watchWindows\watchWindows\bin\Release\watchWindows.exe
+C:\Users\Gabriele Romagnoli\documents\visual studio 2015\Projects\watchWindows\watchWindows\bin\Release\watchWindows.pdb
+C:\Users\Gabriele Romagnoli\documents\visual studio 2015\Projects\watchWindows\watchWindows\obj\Release\watchWindows.csprojResolveAssemblyReference.cache
+C:\Users\Gabriele Romagnoli\documents\visual studio 2015\Projects\watchWindows\watchWindows\obj\Release\watchWindows.exe
+C:\Users\Gabriele Romagnoli\documents\visual studio 2015\Projects\watchWindows\watchWindows\obj\Release\watchWindows.pdb
